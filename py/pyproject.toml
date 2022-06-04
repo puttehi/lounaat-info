@@ -7,10 +7,9 @@ authors = ["puttehi <peteeez95@gmail.com>"]
 [tool.poetry.dependencies]
 python = "^3.10"
 requests = "^2.27.1"
-slack = "^0.0.2"
 
 [tool.poetry.dev-dependencies]
-pytest = "^5.2"
+pytest = "^7.1.2"
 mypy = "^0.960"
 pylint = "^2.14.0"
 black = "^22.3.0"
